@@ -6,12 +6,20 @@ Sandbox for tracking computer-science labs and personal practice projects.
 - `Labs/`: coursework-style exercises and lab notes.
 - `Projects/`: longer-form experiments or prototypes spun off from lab work.
 
+## Certifications
+<a href="https://www.credly.com/badges/40fc9c3b-1beb-4504-b8a7-d66a6f6fbd66/public_url" rel="noreferrer">
+  <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/linkedin_thumb_blob" alt="CompTIA Network+ ce badge" width="150">
+</a>
+
 ### Current Highlight
 - [`Projects/network_scanner`](Projects/network_scanner): Python (`python-nmap`) utility that discovers hosts on a CIDR block and optionally enumerates open ports. Requirements and usage examples live in that folder’s README; quick start:
   ```bash
   cd Projects/network_scanner
   python3 network_scan.py 192.168.2.0/24 --top-ports 100
   ```
+
+## Elastic SIEM Home Lab Projects
+Projects focused on standing up and exercising Elastic SIEM in a home lab. Usually this means wiring Elastic components into one or more Kali Linux VMs to simulate adversarial activity, collect the resulting telemetry, and practice log analysis. These labs are ideal for hands-on defensive workflow drills and for documenting repeatable detection content you build along the way.
 
 ## Getting Started
 ```bash
