@@ -18,9 +18,6 @@ Sandbox for tracking computer-science labs and personal practice projects.
   python3 network_scan.py 192.168.2.0/24 --top-ports 100
   ```
 
-## Elastic SIEM Home Lab Projects
-Projects focused on standing up and exercising Elastic SIEM in a home lab. Usually this means wiring Elastic components into one or more Kali Linux VMs to simulate adversarial activity, collect the resulting telemetry, and practice log analysis. These labs are ideal for hands-on defensive workflow drills and for documenting repeatable detection content you build along the way.
-
 ## Getting Started
 ```bash
 git clone https://github.com/anthonyxiarchos1997-debug/CS-Projects-Labs.git
