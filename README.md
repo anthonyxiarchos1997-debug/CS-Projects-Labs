@@ -13,10 +13,7 @@ Sandbox for tracking computer-science labs and personal practice projects.
 
 ### Current Highlight
 - [`Projects/network_scanner`](Projects/network_scanner): Python (`python-nmap`) utility that discovers hosts on a CIDR block and optionally enumerates open ports. Requirements and usage examples live in that folder’s README; quick start:
-  ```bash
-  cd Projects/network_scanner
-  python3 network_scan.py 192.168.2.0/24 --top-ports 100
-  ```
+
 - [`Projects/packet_sniffer`](Projects/packet_sniffer): Scapy-based CLI to capture packets with optional BPF filtering, tabular/JSON reports, and `.pcap` export for Wireshark.
 - [`Projects/PasswordTool`](Projects/PasswordTool): CLI tool to check password strength (entropy, complexity) and generate secure random passwords. Includes detailed feedback and scoring.
 
