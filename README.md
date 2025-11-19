@@ -11,7 +11,7 @@ Sandbox for tracking computer-science labs and personal practice projects.
   <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/linkedin_thumb_blob" alt="CompTIA Network+ ce badge" width="150">
 </a>
 
-### Current Highlight
+### Projects
 - [`Projects/network_scanner`](Projects/network_scanner): Python (`python-nmap`) utility that discovers hosts on a CIDR block and optionally enumerates open ports. Requirements and usage examples live in that folder’s README; quick start:
 
 - [`Projects/packet_sniffer`](Projects/packet_sniffer): Scapy-based CLI to capture packets with optional BPF filtering, tabular/JSON reports, and `.pcap` export for Wireshark.
