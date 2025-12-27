@@ -11,7 +11,7 @@ Sandbox for tracking computer-science labs and personal practice projects.
   <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/linkedin_thumb_blob" alt="CompTIA Network+ ce badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/5c5dd4aa-8e8b-4dd6-b936-a19036a23162/public_url" rel="noreferrer">
-  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ badge" width="150">
+  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ badge" width="120">
 </a>
 
 ### Projects
